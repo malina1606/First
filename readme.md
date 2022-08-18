@@ -102,3 +102,9 @@ id sem consectetuer libero luctus adipiscing.
 
 
 
+## Работа с удаленными репозиториями.
+git remote add origin https://github.com/malina1606/First.git  
+git branch -M main
+git push -u origin main
+
+Эти команды позволяют отправить содержимое локального репозитория на github
